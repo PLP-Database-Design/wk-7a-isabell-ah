@@ -1,3 +1,4 @@
+-- Question 1
 CREATE TABLE ProductDetail_1NF (
     OrderID INT,
     CustomerName VARCHAR(100),
